@@ -1,5 +1,6 @@
 //leetcode H-index 274 Medium challenge
 //https://leetcode.com/problems/h-index/
+//soon writeup ig
 
 #include <vector>
 #include <algorithm>
