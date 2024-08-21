@@ -1,9 +1,9 @@
+//leetcode Minimim Speed to Arrive on Time 1870 Medium challenge
+//https://leetcode.com/problems/minimum-speed-to-arrive-on-time/
+//Writeup: https://hostileninja72.github.io/minspeed/
+
 #include <vector>
 #include <cmath>
-
-// leetcode 1870 Medium challenge
-// https://leetcode.com/problems/minimum-speed-to-arrive-on-time/
-// Writeup: https://hostileninja72.github.io/minspeed/
 
 using namespace std;
 
